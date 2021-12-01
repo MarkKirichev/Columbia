@@ -1,4 +1,4 @@
-# Columbia
+# Columbia University
 Columbia University CS Courses
 
 Courses taken during my BSc in Computer Science while at Columbia University:
