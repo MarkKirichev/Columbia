@@ -4,3 +4,15 @@
 [submodule "Columbia-ENGI-1102-MMK"]
 	path = Columbia-ENGI-1102-MMK
 	url = https://github.com/MarkKirichev/Columbia-ENGI-1102-MMK.git
+[submodule "Columbia-COMS-3137-MMK"]
+	path = Columbia-COMS-3137-MMK
+	url = https://github.com/MarkKirichev/Columbia-COMS-3137-MMK.git
+[submodule "Columbia-COMS-3251-MMK"]
+	path = Columbia-COMS-3251-MMK
+	url = https://github.com/MarkKirichev/Columbia-COMS-3251-MMK.git
+[submodule "Columbia-COMS-3157-MMK"]
+	path = Columbia-COMS-3157-MMK
+	url = https://github.com/MarkKirichev/Columbia-COMS-3157-MMK.git
+[submodule "Columbia-CSI-MMK"]
+	path = Columbia-CSI-MMK
+	url = https://github.com/MarkKirichev/Columbia-CSI-MMK.git
