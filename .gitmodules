@@ -1,0 +1,6 @@
+[submodule "Columbia-BMEN-4470-MMK"]
+	path = Columbia-BMEN-4470-MMK
+	url = https://github.com/MarkKirichev/Columbia-BMEN-4470-MMK.git
+[submodule "Columbia-ENGI-1102-MMK"]
+	path = Columbia-ENGI-1102-MMK
+	url = https://github.com/MarkKirichev/Columbia-ENGI-1102-MMK.git
