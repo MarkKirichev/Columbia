@@ -16,3 +16,6 @@
 [submodule "Columbia-CSI-MMK"]
 	path = Columbia-CSI-MMK
 	url = https://github.com/MarkKirichev/Columbia-CSI-MMK.git
+[submodule "Columbia-CSEE-3827-MMK"]
+	path = Columbia-CSEE-3827-MMK
+	url = https://github.com/MarkKirichev/Columbia-CSEE-3827-MMK.git
