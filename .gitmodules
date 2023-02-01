@@ -19,3 +19,6 @@
 [submodule "Columbia-CSEE-3827-MMK"]
 	path = Columbia-CSEE-3827-MMK
 	url = https://github.com/MarkKirichev/Columbia-CSEE-3827-MMK.git
+[submodule "Columbia-CBL"]
+	path = Columbia-CBL
+	url = https://github.com/MarkKirichev/Columbia-CBL.git
