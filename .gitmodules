@@ -22,3 +22,10 @@
 [submodule "Columbia-CBL"]
 	path = Columbia-CBL
 	url = https://github.com/MarkKirichev/Columbia-CBL.git
+[submodule "CBL-UpFront-Backend"]
+	path = Columbia-UpFront-Backend
+	url = https://github.com/MarkKirichev/CBL-UpFront-Backend.git
+[submodule "Columbia-IEOR-6608-MMK"]
+        path = Columbia-IEOR-6608-MMK
+        url = https://github.com/MarkKirichev/Columbia-IEOR-6608-MMK.git
+
